@@ -1,2 +1,5 @@
 # Website-Blocker
-The user assigns the time it needs some particular websites to be blocked(for example fb.com using working hours). This program will block all the given websites from all the web browsers and will unblock after the given time period is over
+
+the working of this program is that, windows contain a file name 'hosts' in the directory C:/windows/system32/drivers/etc which can be used to redirect a particular website to 
+a particular IP address, this program adds the website and the IP address added is of the own local PC or say- 'localhost' hence, when you try to open a blocked website, there's
+an error of DNS server can't respond.
