@@ -5,3 +5,7 @@ a particular IP address, this program adds the website and the IP address added 
 an error of DNS server can't respond.
 
 Make sure to read the program firsthand to avoid any issues
+
+
+if you want to run this program in the background, change the extension of the program to .pym and run the program via pythonm insteam of python, refer to google for more details
+abut how to run a python program in the background
